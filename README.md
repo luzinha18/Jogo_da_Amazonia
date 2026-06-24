@@ -32,7 +32,7 @@ Para executar o jogo, siga os passos abaixo:
 2.  **Clonar o Repositório**: Se você estiver em um ambiente Git, clone este repositório para sua máquina local:
     ```bash
     git clone [URL_DO_REPOSITORIO]
-    cd amazon_quiz
+    cd Jogo_da_Amazonia
     ```
     (A URL do repositório será fornecida após a publicação no GitHub.)
 
