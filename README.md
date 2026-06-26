@@ -42,3 +42,5 @@ Para executar o jogo, siga os passos abaixo:
     ```
 
 4.  **Interagir com o Jogo**: Siga as instruções no terminal para responder às perguntas. Ao final, você receberá sua pontuação e classificação.
+
+Link: [quiz](https://colab.research.google.com/drive/1Y2jMfwjcfFyoRZI_oOpVrvNsZAYMBph5?usp=sharing)
